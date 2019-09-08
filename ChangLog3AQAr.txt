@@ -1,19 +1,35 @@
-{"version_code":452896,"content":"
-<p>تحديث جديد الأصدار الثاني New update version 2 </p>
+{"version_code":452891,"content":"
+<p>تحديث 1.70 (Update)</p>
 
-<li> التحديث لنسخة الماركت 2.19.216</li>
-<li> ضد الحظر ان شاء الله</li>
-<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
-<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
-<li> اضافة امكانية تحميل الصورة الشخصية لاي شخص كان</li>
-<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li>اضافة المزيد من الحمايه ضد الحظر</li>
+
+<li>تحسين اعدادات الخصوصية</li>
+
+<li>أضافة يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+
+<li>أضافة خيار مراسلة رقم غير محفوظ بشكل متطور </li>
+
+<li>زيادة حجم الحاله الى اكثر من 15 دقائق بدلا من 30 ثانيه</li>
+
+<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
+
+<li> أضافة قفل النمط لقفل الواتساب بي الكامل </li>
+
+<li>اضافة سرفر ثيمات جديده وتعمل مع جميع الاجهزه</li>
+
+<li>اضافة خيار مصادقة البصمه(الخصوصية)</li>
+
+<li>اضافة خيار العودة الى واجهة الواتساب القديمه 2014</li>
+
 <li> والمزيد...</li>
 
-<li>Anti-Ban </li>
 <li>Added show Toast When Anyone Views your Status/Story</li>
+
 <li>Added Ability to download profile image</li>
+
 <li>Added option to Hide grey line between Status in Story Screen</li>
+
 <li>Fixed lag issue</li>
 
-","url":"http://www.crocodile3.blogspot.com/2019/08/crocodile.html"
+","url":"http://www.kbmods.blogspot.com/2018/10/kbwhatsapp.html"
 }
