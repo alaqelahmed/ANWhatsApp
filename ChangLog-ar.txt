@@ -1,4 +1,4 @@
-{"version_code":451221,"content":"
+{"version_code":451219,"content":"
 <p>تحديث 1.70 (Update)</p>
 
 <li>اضافة المزيد من الحمايه ضد الحظر</li>
@@ -31,5 +31,5 @@
 
 <li>Fixed lag issue</li>
 
-","url":"http://www.kbmods.blogspot.com/2018/10/kbwhatsapp.html"
+","url":"http://www.kbmods.blogspot.com/2018/10/kb2whatsapp.html"
 }
